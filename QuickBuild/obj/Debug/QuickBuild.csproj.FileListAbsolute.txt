@@ -1,0 +1,10 @@
+D:\VisulStudioProject\QuickBuild\QuickBuild\bin\Debug\QuickBuild.exe.config
+D:\VisulStudioProject\QuickBuild\QuickBuild\bin\Debug\QuickBuild.exe
+D:\VisulStudioProject\QuickBuild\QuickBuild\bin\Debug\QuickBuild.pdb
+D:\VisulStudioProject\QuickBuild\QuickBuild\obj\Debug\QuickBuild.Properties.Resources.resources
+D:\VisulStudioProject\QuickBuild\QuickBuild\obj\Debug\QuickBuild.csproj.GenerateResource.Cache
+D:\VisulStudioProject\QuickBuild\QuickBuild\obj\Debug\QuickBuild.exe
+D:\VisulStudioProject\QuickBuild\QuickBuild\obj\Debug\QuickBuild.pdb
+D:\VisulStudioProject\QuickBuild\QuickBuild\obj\Debug\QuickBuild.QuickBuild.resources
+D:\VisulStudioProject\QuickBuild\QuickBuild\obj\Debug\QuickBuild.csprojAssemblyReference.cache
+D:\VisulStudioProject\QuickBuild\QuickBuild\obj\Debug\QuickBuild.csproj.CoreCompileInputs.cache
