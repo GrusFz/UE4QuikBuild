@@ -8,3 +8,13 @@ D:\VisulStudioProject\QuickBuild\QuickBuild\obj\Debug\QuickBuild.pdb
 D:\VisulStudioProject\QuickBuild\QuickBuild\obj\Debug\QuickBuild.QuickBuild.resources
 D:\VisulStudioProject\QuickBuild\QuickBuild\obj\Debug\QuickBuild.csprojAssemblyReference.cache
 D:\VisulStudioProject\QuickBuild\QuickBuild\obj\Debug\QuickBuild.csproj.CoreCompileInputs.cache
+E:\Azeroth\Eastern Kingdoms\UE4QuikBuild\QuickBuild\obj\Debug\QuickBuild.csprojAssemblyReference.cache
+E:\Azeroth\Eastern Kingdoms\UE4QuikBuild\QuickBuild\obj\Debug\QuickBuild.QuickBuild.resources
+E:\Azeroth\Eastern Kingdoms\UE4QuikBuild\QuickBuild\obj\Debug\QuickBuild.Properties.Resources.resources
+E:\Azeroth\Eastern Kingdoms\UE4QuikBuild\QuickBuild\obj\Debug\QuickBuild.csproj.GenerateResource.cache
+E:\Azeroth\Eastern Kingdoms\UE4QuikBuild\QuickBuild\obj\Debug\QuickBuild.csproj.CoreCompileInputs.cache
+E:\Azeroth\Eastern Kingdoms\UE4QuikBuild\QuickBuild\obj\Debug\QuickBuild.exe
+E:\Azeroth\Eastern Kingdoms\UE4QuikBuild\QuickBuild\obj\Debug\QuickBuild.pdb
+E:\Azeroth\Eastern Kingdoms\UE4QuikBuild\QuickBuild\bin\Debug\QuickBuild.exe.config
+E:\Azeroth\Eastern Kingdoms\UE4QuikBuild\QuickBuild\bin\Debug\QuickBuild.exe
+E:\Azeroth\Eastern Kingdoms\UE4QuikBuild\QuickBuild\bin\Debug\QuickBuild.pdb
